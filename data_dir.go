@@ -1,3 +1,3 @@
 package constants
 
-const DataDir = "/home/mike/data"
+const DataDir = "/home/mike/data/www"
